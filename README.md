@@ -59,12 +59,12 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nxttrendz-react-app.git
+   git clone https://github.com/Waghraj1699/nxtTrendz.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd nxttrendz-react-app
+   cd nxtTrendz
    ```
 
 3. Install dependencies:
