@@ -9,6 +9,11 @@ The project showcases the use of modern frontend technologies like **React**, **
 
 ---
 
+- username: rahul
+- password: rahul@2021
+
+---
+
 ## **Features**
 
 ### **1. Product Catalog**
